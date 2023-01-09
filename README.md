@@ -18,8 +18,23 @@ Un repositorio donde encontraras el codigo de los tutoriales que subo a tiktok y
 * Una vez consumido imprimiremos nuestra informacion para validad que dicha informacion esta ahi
 * Para posteriormente usarla dentro del elemento en el cual sea necesario su uso.
 
+### Crea este increible juego para compartir con tu crush
+
+* A este proceso se le conoce como inyeccion de dependencias y la esta es una de las maneras mas sencillas de hacerlo.
+* Primero necesitamos agregar la url o nodo desde la cual consumiremos la informacion por medio de una variable
+* Posteriormente consumiremos dicha informacion por medio de un metodo el fetch el cual esta dedicado a condumo de datos.
+* Una vez consumido imprimiremos nuestra informacion para validad que dicha informacion esta ahi
+* El codigo lo podras encontrar en mi Github y en mi perfil de Codepen
 
 ## Tutoriales de Java
+### Conectar una base de datos SQL a Java
+* A este proceso se le conoce como inyeccion de dependencias y la esta es una de las maneras mas sencillas de hacerlo.
+* Primero necesitamos agregar la url o nodo desde la cual consumiremos la informacion por medio de una variable
+* Posteriormente consumiremos dicha informacion por medio de un metodo el fetch el cual esta dedicado a condumo de datos.
+* Una vez consumido imprimiremos nuestra informacion para validad que dicha informacion esta ahi
+* Para posteriormente usarla dentro del elemento en el cual sea necesario su uso.
+
+
 
 ## Tutoriales de Python
 
