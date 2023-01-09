@@ -11,6 +11,14 @@ Un repositorio donde encontraras el codigo de los tutoriales que subo a tiktok y
 
 ## Tutoriales de Javascript
 
+### Consumir informacion desde nuestra Pagina web con javascript
+* A este proceso se le conoce como inyeccion de dependencias y la esta es una de las maneras mas sencillas de hacerlo.
+* Primero necesitamos agregar la url o nodo desde la cual consumiremos la informacion por medio de una variable
+* Posteriormente consumiremos dicha informacion por medio de un metodo el fetch el cual esta dedicado a condumo de datos.
+* Una vez consumido imprimiremos nuestra informacion para validad que dicha informacion esta ahi
+* Para posteriormente usarla dentro del elemento en el cual sea necesario su uso.
+
+
 ## Tutoriales de Java
 
 ## Tutoriales de Python
